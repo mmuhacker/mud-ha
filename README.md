@@ -186,17 +186,23 @@ mud_ha.py
 </div>
 
 اختيارك: 1
+
 أدخل الموقع: google.com
 
   كود الحالة:     200
+  
   الرابط النهائي: https://www.google.com/
 
   ── تحليل الأمان ──
 
   [✓]  HSTS — إجبار HTTPS
+  
   [✓]  CSP — حماية XSS
+  
   [✓]  حماية Clickjacking
+  
   [✗]  حماية MIME Sniffing — مفقودة!
+  
   [!]  إصدار الخادم ⚠️: gws
 
   تقييم الأمان: 5/7 — متوسط ⚠️
