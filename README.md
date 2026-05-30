@@ -193,6 +193,8 @@ mud_ha.py
   
   الرابط النهائي: https://www.google.com/
 
+<div align="center">
+  
   ── تحليل الأمان ──
 
   [✓]  HSTS — إجبار HTTPS
@@ -206,6 +208,7 @@ mud_ha.py
   [!]  إصدار الخادم ⚠️: gws
 
   تقييم الأمان: 5/7 — متوسط ⚠️
+</div>
 
 ---
 
