@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🌐 HTTP Headers Analyzer     أداة تحليل ترويسات HTTP
+# 🌐 HTTP Headers Analyzer
+# أداة تحليل ترويسات HTTP
 
 **تعمل على نظام Kali Linux و تطبيق Termux**
 
